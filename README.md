@@ -1,6 +1,8 @@
 # Machine learning fundamentals
+| Training computers to learn and infer from data.
+![robot.png](Assets/robot.png)
 
-## Milestones 
+
 - Supervised learning algorithms
 - Key concepts like under- and over-fitting, regularization, and cross-validation
 - How to identify the type of problem to be solved, choose the right algorithm, tune parameters, and validate a model
